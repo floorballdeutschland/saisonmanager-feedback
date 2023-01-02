@@ -1,5 +1,5 @@
 ---
-name: Fehlerbericht
+name: "Fehlerbericht \U0001F41B"
 about: Erstelle einen Kurzbericht zu einem aufgetretenen Fehler
 title: "[BUG]"
 labels: ''

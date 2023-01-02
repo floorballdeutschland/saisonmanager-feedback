@@ -1,5 +1,5 @@
 ---
-name: Verbesserungsidee
+name: "Verbesserungsidee \U0001F4A1"
 about: Schlage uns eine Verbesserungsidee für den Saisonmanager vor
 title: "[WANTED]"
 labels: ''
