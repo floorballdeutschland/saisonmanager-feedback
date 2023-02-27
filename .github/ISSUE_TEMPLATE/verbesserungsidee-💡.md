@@ -18,3 +18,9 @@ assignees: ''
 
 ### Zusätzlicher Kontext
 <!-- Füge hier weitere Informationen oder Bildschirmfotos zum besseren Verständnis hinzu. -->
+
+### Links zu relevanten Seiten
+<!-- Füge hier Links im Saisonmanager ein, die helfen das Problem zu verstehen -->
+
+
+Wichtig: Nenne keine Personenbezogene oder sensible Daten. Diese sind nach anlegen des Issues an it@floorball.de zu senden
